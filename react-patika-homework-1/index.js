@@ -1,3 +1,3 @@
-import topla from "./app.js";
+import getData from "./app.js";
 
-console.log(topla(2, 4));
+console.log(getData(1));
